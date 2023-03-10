@@ -3,5 +3,5 @@
 ## 使用方法：
 ```
 git clone https://github.com/zzzghttt/myVim.git
-mv myVim/* ~/
+tar xvf myVim.tar -C ~/
 ```
